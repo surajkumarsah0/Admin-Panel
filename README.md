@@ -1,2 +1,2 @@
 # Admin-Panel 
-my name is suraj kumar sah
+my name is suraj kumar
